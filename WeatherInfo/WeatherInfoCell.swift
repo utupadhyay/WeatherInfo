@@ -19,4 +19,7 @@ class WeatherInfoCell: UICollectionViewCell {
     
     @IBOutlet weak var weatherDiscription: UILabel!
     
+    @IBOutlet weak var myView: UIImageView!
+   
+    
 }

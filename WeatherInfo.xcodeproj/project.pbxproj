@@ -68,14 +68,14 @@
 			isa = PBXGroup;
 			children = (
 				0DC92E4F1F969E990053CB16 /* AppDelegate.swift */,
+				0D4EF86D1F9DC59500861833 /* CountryNameViewController.swift */,
 				0DC92E511F969E990053CB16 /* WIviewContoller.swift */,
+				0D8104141F977A3F00F77497 /* Weather.swift */,
+				0D8104181F9CCDB000F77497 /* WeatherInfoCell.swift */,
 				0DC92E531F969E990053CB16 /* Main.storyboard */,
 				0DC92E561F969E990053CB16 /* Assets.xcassets */,
 				0DC92E581F969E990053CB16 /* LaunchScreen.storyboard */,
 				0DC92E5B1F969E990053CB16 /* Info.plist */,
-				0D8104141F977A3F00F77497 /* Weather.swift */,
-				0D8104181F9CCDB000F77497 /* WeatherInfoCell.swift */,
-				0D4EF86D1F9DC59500861833 /* CountryNameViewController.swift */,
 			);
 			path = WeatherInfo;
 			sourceTree = "<group>";
